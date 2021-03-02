@@ -1,0 +1,16 @@
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\bin\Debug\net5.0\CatalagoDeFilmes.exe
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\bin\Debug\net5.0\CatalagoDeFilmes.deps.json
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\bin\Debug\net5.0\CatalagoDeFilmes.runtimeconfig.json
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\bin\Debug\net5.0\CatalagoDeFilmes.runtimeconfig.dev.json
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\bin\Debug\net5.0\CatalagoDeFilmes.dll
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\bin\Debug\net5.0\ref\CatalagoDeFilmes.dll
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\bin\Debug\net5.0\CatalagoDeFilmes.pdb
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\obj\Debug\net5.0\CatalagoDeFilmes.csprojAssemblyReference.cache
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\obj\Debug\net5.0\CatalagoDeFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\obj\Debug\net5.0\CatalagoDeFilmes.AssemblyInfoInputs.cache
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\obj\Debug\net5.0\CatalagoDeFilmes.AssemblyInfo.cs
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\obj\Debug\net5.0\CatalagoDeFilmes.csproj.CoreCompileInputs.cache
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\obj\Debug\net5.0\CatalagoDeFilmes.dll
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\obj\Debug\net5.0\ref\CatalagoDeFilmes.dll
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\obj\Debug\net5.0\CatalagoDeFilmes.pdb
+C:\Users\Cibelle Caldas\Desktop\CSharp\CatalagoDeFilmes\CatalagoDeFilmes\obj\Debug\net5.0\CatalagoDeFilmes.genruntimeconfig.cache
